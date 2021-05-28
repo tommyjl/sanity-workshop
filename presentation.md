@@ -291,5 +291,5 @@ sanity graphql deploy
 
 ```
 react-scripts build
-gh-pages -d dist
+gh-pages -d build
 ```
