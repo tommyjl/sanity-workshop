@@ -61,7 +61,7 @@ Gå til <https://manage.sanity.io/> og opprett bruker
 ```
 mkdir sanity
 cd sanity
-npm init
+sanity init
 ```
 
 ## Deploy Sanity Studio
